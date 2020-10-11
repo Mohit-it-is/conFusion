@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
